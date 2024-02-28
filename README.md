@@ -4,6 +4,13 @@
 
 ![Imagen de portada de la serie.](C:\Users\Rashell.LAPTOP-6GKD1F0N\Documents\GitHub\Malcolm-el-De-en-Medio\Malcolm)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Rashell.LAPTOP-6GKD1F0N\Documents\GitHub\Malcolm-el-De-en-Medio\Malcolm">
-  
-### Donde ver la serie
+  <source media="" srcset="C:\Users\Rashell.LAPTOP-6GKD1F0N\Documents\GitHub\Malcolm-el-De-en-Medio\Malcolm">
+  </picture>
+
+## Tema
+
+**La serie consiste en la lucha por sobrevivir de un adolescente superdotado llamado Malcolm (Frankie Muniz), en medio de una familia de clase media estadounidense. El tema de los episodios varía mucho, desde simples exámenes en la escuela, feroces batallas entre los miembros de la familia, a episodios en los que Malcolm se debate entre la niñez y la adolescencia, lo cual le confunde aún más. Cada situación le enseña a sobrevivir y valiosas lecciones que aprende siempre por las malas. Tiene muy mala suerte y casi siempre todo le sale mal.**
+
+
+## Donde ver la serie
+
