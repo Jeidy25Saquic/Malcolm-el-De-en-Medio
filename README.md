@@ -8,6 +8,7 @@
   </picture>
 
 ## Tema
+![Malcolm](https://github.com/Jeidy25Saquic/Malcolm-el-De-en-Medio/assets/99783524/05a512aa-d01f-41c5-93d6-7418ccf7dd13)
 
 **La serie consiste en la lucha por sobrevivir de un adolescente superdotado llamado Malcolm (Frankie Muniz), en medio de una familia de clase media estadounidense. El tema de los episodios varía mucho, desde simples exámenes en la escuela, feroces batallas entre los miembros de la familia, a episodios en los que Malcolm se debate entre la niñez y la adolescencia, lo cual le confunde aún más. Cada situación le enseña a sobrevivir y valiosas lecciones que aprende siempre por las malas. Tiene muy mala suerte y casi siempre todo le sale mal.**
 
